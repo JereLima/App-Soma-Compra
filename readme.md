@@ -17,8 +17,21 @@ O Compra Calculada foi desenvolvido usando as seguintes tecnologias:
 
 Para realizar o Download acesse: https://bit.ly/compracalculada
 
-<img src="https://github.com/JereLima/AppSomaCompra-git/blob/main/assets/gif.gif" alt="GIF" width="250"/>
-<img src="https://github.com/JereLima/AppSomaCompra-git/blob/main/assets/photo_5186011369282054877_y.jpeg" alt="LISTA" width="250"/>
-<img src="https://github.com/JereLima/AppSomaCompra-git/blob/main/assets/criar.jpeg" alt="CRIAÇÃO" width="250"/>
-<img src="https://github.com/JereLima/AppSomaCompra-git/blob/main/assets/message.jpeg" alt="LISTA COMPARTILHADA" width="250"/>
-<img src="https://github.com/JereLima/AppSomaCompra-git/blob/main/assets/sem_valor.jpeg" alt="ITEMS SEM VALOR" width="250"/>
+<table>
+  <tr>
+    <td align="center">
+        <img src="https://github.com/JereLima/AppSomaCompra-git/blob/main/assets/gif.gif" alt="GIF" width="250"/></td>
+    <td align="center">
+        <img src="https://github.com/JereLima/AppSomaCompra-git/blob/main/assets/photo_5186011369282054877_y.jpeg" alt="LISTA" width="250"/>
+    </td>
+    <td align="center">
+        <img src="https://github.com/JereLima/AppSomaCompra-git/blob/main/assets/criar.jpeg" alt="CRIAÇÃO" width="250"/>
+    </td>
+    <td align="center">
+        <img src="https://github.com/JereLima/AppSomaCompra-git/blob/main/assets/message.jpeg" alt="LISTA COMPARTILHADA" width="250"/>
+    </td>
+    <td align="center">
+        <img src="https://github.com/JereLima/AppSomaCompra-git/blo b/main/assets/sem_valor.jpeg" alt="ITEMS SEM VALOR" width="250"/>
+    </td>
+  </tr>
+</table>
