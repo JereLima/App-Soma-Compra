@@ -7,7 +7,7 @@ O Compra Calculada é um aplicativo desenvolvido em React Native para ajudá-lo 
 O Compra Calculada foi desenvolvido usando as seguintes tecnologias:
 
 - React Native: framework para desenvolvimento de aplicativos - móveis usando JavaScript e React.
-- Styled Components: biblioteca para estilização de componentes \* usando CSS em JS.
+- Styled Components: biblioteca para estilização de componentes usando CSS em JS.
 - Axios: biblioteca para realizar requisições HTTP.
 - Zustand: biblioteca para gerenciamento de estado em aplicações React.
 - React Navigation: biblioteca para navegação entre telas em aplicações React Native.
@@ -16,3 +16,9 @@ O Compra Calculada foi desenvolvido usando as seguintes tecnologias:
 ## Download
 
 Para realizar o Download acesse: https://bit.ly/compracalculada
+
+<img src="https://github.com/JereLima/AppSomaCompra-git/blob/main/assets/gif.gif" alt="GIF" width="250"/>
+<img src="https://github.com/JereLima/AppSomaCompra-git/blob/main/assets/photo_5186011369282054877_y.jpeg" alt="LISTA" width="250"/>
+<img src="https://github.com/JereLima/AppSomaCompra-git/blob/main/assets/criar.jpeg" alt="CRIAÇÃO" width="250"/>
+<img src="https://github.com/JereLima/AppSomaCompra-git/blob/main/assets/message.jpeg" alt="LISTA COMPARTILHADA" width="250"/>
+<img src="https://github.com/JereLima/AppSomaCompra-git/blob/main/assets/sem_valor.jpeg" alt="ITEMS SEM VALOR" width="250"/>
